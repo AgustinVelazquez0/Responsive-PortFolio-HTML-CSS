@@ -166,7 +166,7 @@
    .juntos-row {
     display: flex;
     justify-content: space-around;
-    width: 630px;
+    min-width: 630px;
     margin-right: 136px;
    }
 
