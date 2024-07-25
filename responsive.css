@@ -136,8 +136,11 @@
    @media (max-width: 768px) {
     .menu-mobile {
         display: none;
+ }
 
-    }
+    main {
+    padding: 10px;
+ }
 }
 
    /* Media query para tablets */
