@@ -46,6 +46,7 @@
 
    .perfil {
     margin-bottom: 30px;
+    min-width: 295px;
     /* Estilos para la sección de perfil */
    }
 
